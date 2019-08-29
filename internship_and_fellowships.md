@@ -10,9 +10,9 @@ Space related internships:
 
 
 
-Grad fellowships:
+Grad fellowships-Seniors can often apply for these!:
 
-https://www.nasa.gov/strg/nstrf/
-https://www.nsfgrfp.org/ due late october!
-
- 
+* https://www.nasa.gov/strg/nstrf/
+* https://www.nsfgrfp.org/ due late october!
+* NESSF NASA
+* Ford foundation: http://sites.nationalacademies.org/pga/FordFellowships/index.htm
