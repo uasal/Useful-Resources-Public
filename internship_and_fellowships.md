@@ -7,7 +7,7 @@ Space related internships:
 * http://lasp.colorado.edu/home/about/jobs/
 * Ball does a lot of cool space missions: https://www.ball.com/aerospace/about-ball-aerospace/careers/college-internships
 "our internships typically open in the fall"
-
+* NSF REUs: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
 
 
 Grad fellowships-Seniors can often apply for these!:
