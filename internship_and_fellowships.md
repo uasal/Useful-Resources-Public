@@ -12,7 +12,7 @@ Space related internships:
 
 Grad fellowships-Seniors can often apply for these!:
 
-* https://www.nasa.gov/strg/nstrf/
+* NASA Space Technology Graduate Research Opportunities  https://tinyurl.com/NSTGRO20
 * https://www.nsfgrfp.org/ due late october!
 * NESSF NASA
 * Ford foundation: http://sites.nationalacademies.org/pga/FordFellowships/index.htm
