@@ -19,9 +19,10 @@ Space related internships:
 * Banneker Institute, mid-Feb deadline: https://bannekerinstitute.fas.harvard.edu/, "Our program targets undergraduate juniors from backgrounds historically marginalized from academia and the astronomical sciences in particular."
 
 
-Grad fellowships-Seniors can often apply for these!:
+Grad fellowships-Seniors can often apply for these! they will pay for grad school and give you an advantage in admissions:
 
 * NASA Space Technology Graduate Research Opportunities  https://tinyurl.com/NSTGRO20
 * https://www.nsfgrfp.org/ due late october!
 * NESSF NASA
 * Ford foundation: http://sites.nationalacademies.org/pga/FordFellowships/index.htm
+* Amelia Earhart Fellowship: https://foundation.zonta.org/Our-Programs/Educational-Programs/Amelia-Earhart-Fellowship
