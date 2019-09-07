@@ -1,4 +1,4 @@
-Space related internships (most will pay a stipend and pay for your housing):
+Space related internships (most will pay a stipend and provide for your housing):
 
 * https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
 * https://www.nasa.gov/sites/default/files/atoms/files/nasa-internships-awareness-and-faq.pdf
