@@ -1,3 +1,5 @@
+## internships:
+
 Space related internships (most will pay a stipend and provide for your housing):
 
 * https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
@@ -18,6 +20,8 @@ Space related internships (most will pay a stipend and provide for your housing)
 * Matthew Isakovitz Commercial Spaceflight: https://www.matthewisakowitzfellowship.org/apply/
 * Banneker Institute, mid-Feb deadline: https://bannekerinstitute.fas.harvard.edu/, "Our program targets undergraduate juniors from backgrounds historically marginalized from academia and the astronomical sciences in particular."
 
+
+## graduate Fellowships:
 
 Grad fellowships-Seniors can often apply for these! they will pay for grad school and give you an advantage in admissions:
 
