@@ -21,7 +21,7 @@ Space related internships (most will pay a stipend and provide for your housing)
 * Banneker Institute, mid-Feb deadline: https://bannekerinstitute.fas.harvard.edu/, "Our program targets undergraduate juniors from backgrounds historically marginalized from academia and the astronomical sciences in particular."
 
 
-## graduate Fellowships:
+## graduate fellowships:
 
 Grad fellowships-Seniors can often apply for these! they will pay for grad school and give you an advantage in admissions:
 
