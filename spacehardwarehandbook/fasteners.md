@@ -17,7 +17,7 @@ When a single bolt can't fail, a certified A286 alloy bolt is often called for. 
 
 # Style selection
 
-Vented Socket Head Screws increase cost and decrease choices but allow venting of blind holes to prevent gas build up in space/vacuum applications when the hole is not otherwise vented
+Vented Socket Head Screws increase cost and decrease choices but allow venting of blind holes to prevent gas build up in space/vacuum applications when the hole is not otherwise vented (the smallest screw hole that must be vented is somewhat fuzzy, but the fewer unvented holes the better).
 
 
 # Lubricant
