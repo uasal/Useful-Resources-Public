@@ -21,6 +21,7 @@ Space related internships (most will pay a stipend and provide for your housing)
 * LIGO SURF @ Caltech: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/
 * Matthew Isakovitz Commercial Spaceflight: https://www.matthewisakowitzfellowship.org/apply/
 * Banneker Institute, mid-Feb deadline: https://bannekerinstitute.fas.harvard.edu/, "Our program targets undergraduate juniors from backgrounds historically marginalized from academia and the astronomical sciences in particular."
+* Charles Stark Draper Lab: https://www.draper.com/careers/student-opportunities, https://student-draper.icims.com/
 
 
 ## graduate fellowships:
