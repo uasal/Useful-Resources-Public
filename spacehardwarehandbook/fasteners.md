@@ -1,6 +1,7 @@
 # References
 
 - [Machinery's handbook](https://www.worldcat.org/title/machinerys-handbook/oclc/954734887) from [Industrial Press](https://books.industrialpress.com/machineryhandbook)
+- [NASA Fastener Design manual](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900009424.pdf) or [19900009424.pdf](19900009424.pdf) - somewhat dated materials since Cadium is no longer generally used but excellent overview of concepts
 - [NASA Standard 5020, Requirements for Threaded Fastening Systems in Spaceflight Hardware](https://standards.nasa.gov/standard/nasa/nasa-std-5020)
 - E. F. Bruhn. (1949). Analysis And Design Of Airplane Structures. Retrieved from http://archive.org/details/in.ernet.dli.2015.166811
 - Chambers, J. A. (1995). Preloaded joint analysis methodology for space flight systems. Retrieved from https://ntrs.nasa.gov/search.jsp?R=19960012183
@@ -16,7 +17,7 @@ When a single bolt can't fail, a certified A286 alloy bolt is often called for. 
 
 # Style selection
 
-Vented Socket Head Screws
+Vented Socket Head Screws increase cost and decrease choices but allow venting of blind holes to prevent gas build up in space/vacuum applications when the hole is not otherwise vented
 
 
 # Lubricant
