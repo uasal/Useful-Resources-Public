@@ -9,8 +9,8 @@
 
 # Material Selection
 
-18-8 stainless steel is low-cost and corrosion resistant.
-A-286 Alloy is comparable strength to non-stainless bolts, but at a relatively higher cost.
+18-8 stainless steel is low-cost and corrosion resistant, the strength of 70,000 psi is close to [SAE Grade 2 bolts](https://www.engineeringtoolbox.com/steel-bolts-sae-grades-d_1426.html). 
+A-286 Alloy is comparable strength to non-stainless bolts, but at a relatively higher cost. The minimum tensile strength of A-286 screws typically exceed SAE Grade 8.
 
 When a single bolt can't fail, a certified A286 alloy bolt is often called for. When there is redundancy and margin, more widely  available 18-8 is often more convenient and cost effective.
 
