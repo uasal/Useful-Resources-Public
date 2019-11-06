@@ -32,4 +32,4 @@ The clamping load of the part should exceed the expected load on the joint being
 
 # Inserts
 
- Nitronic 60 locking helical inserts are suggested for threading into aluminum. Inserts, such as locking helical inserts "helicoils", provide a locking mechanism to prevent screws from backing out, can increase strength, and the numbers of cycles of a joint.
+ Nitronic 60 locking helical inserts are suggested for threading into aluminum. Inserts, such as locking helical inserts "helicoils", provide a locking mechanism to prevent screws from backing out, can increase strength, and the tolerable number of cycles of a joint.
