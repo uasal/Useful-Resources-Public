@@ -1,5 +1,7 @@
 ## internships:
 
+The UArizona TIMESTEP Program also maintains a list of STEM related opportunities: https://lavinia.as.arizona.edu/~timestep/research-opportunities.html
+
 Space related internships (most will pay a stipend and provide for your housing):
 
 * https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
