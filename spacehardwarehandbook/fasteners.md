@@ -20,11 +20,11 @@ Lubricants that are vacuum safe and low-outgassing (see outgassing.nasa.gov), su
 
 # Torque
 
-For detailed calculation and requirements see NASA Standard 5020. 
+For detailed calculations and requirements see NASA Standard 5020. NASA [Tech Memo 19960012183] introduces preloaded joints and also has a table of suggested torque values.
 
-Look up fastener clamping load and recommended torque on a table like the [Spaenaur Suggested Tightening] (spaenaur%20-%20Suggested%20Tightening%20Torque1%20Values%20To%20Produce%20Cor.pdf] chart, taking care to use the lubricated column if applicable.
+The Look up fastener clamping load and recommended torque on a table like the [Spaenaur Suggested Tightening] (spaenaur%20-%20Suggested%20Tightening%20Torque1%20Values%20To%20Produce%20Cor.pdf] chart, taking care to use the lubricated column if applicable.
 
-The clamping load of the part should exceed the expected load on the joint being supported by a safety factor. e.g. a kilogram part expecting to see 30 g loads should and a minimum safety factor of three should be held with at least `3*30*9.8 Newtons` (198 lbs-force). 
+The clamping load of the part should exceed the expected load on the joint being supported by a safety factor. e.g. a kilogram part expecting to see 30 g loads should and a minimum safety factor of three should be held with at least `3*30*9.8 Newtons` (e.g. >198 lbs-force). 
 
 ## Torque wrenches
 
