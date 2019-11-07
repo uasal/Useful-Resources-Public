@@ -17,7 +17,7 @@ Space related internships (most will pay a stipend and provide for your housing)
   * BU REU on space plasma and magnetism: https://www.bu.edu/astronomy/research/reu/
 * ULA Launch Summer Internships: https://www.ulalaunch.com/careers/internships
 * Lockheed Martin Student Programs:  https://www.lockheedmartinjobs.com/college-students?_ga=2.4201203.1970068266.1567584874-1625479676.1567584874
-* STSci: http://www.stsci.edu/opportunities/space-astronomy-summer-program
+* STScI: http://www.stsci.edu/opportunities/space-astronomy-summer-program
 * LIGO SURF @ Caltech: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/
 * Matthew Isakovitz Commercial Spaceflight: https://www.matthewisakowitzfellowship.org/apply/
 * Banneker Institute, mid-Feb deadline: https://bannekerinstitute.fas.harvard.edu/, "Our program targets undergraduate juniors from backgrounds historically marginalized from academia and the astronomical sciences in particular."
