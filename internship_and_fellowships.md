@@ -15,6 +15,7 @@ Space related internships (most will pay a stipend and provide for your housing)
   * Maria Mitchell Astronomy REU: https://www.mariamitchell.org/get-involved/internships/reu
   * Northern Arizona/Lowell Observatory: http://www.physics.nau.edu/~reu/howto.htm
   * BU REU on space plasma and magnetism: https://www.bu.edu/astronomy/research/reu/
+* Brook Owens Fellowship: https://www.brookeowensfellowship.org/
 * ULA Launch Summer Internships: https://www.ulalaunch.com/careers/internships
 * Lockheed Martin Student Programs:  https://www.lockheedmartinjobs.com/college-students?_ga=2.4201203.1970068266.1567584874-1625479676.1567584874
 * STScI: http://www.stsci.edu/opportunities/space-astronomy-summer-program
