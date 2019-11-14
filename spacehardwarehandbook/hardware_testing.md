@@ -3,7 +3,7 @@ NASA resources:
 
 - NASA GEVS (General Environmental Verification Standard): https://standards.nasa.gov/standard/gsfc/gsfc-std-7000
 (also Milne, J. S., & Kaufman, D. S. (2003, January 1). General Environmental Verification Specification. Retrieved from https://ntrs.nasa.gov/search.jsp?R=20030106019)
-- Sounding Rocket Handbook. (2015). Wallops Flight Facility Wallops Island, Virginia, USA. https://sites.wff.nasa.gov/code810/files/SRHB.pdf: Sounding Rockets Program Office Suborbital & Special Orbital Projects Directorate. Retrieved from http://sites.wff.nasa.gov/code810/files/SRHB.pdf
+- Sounding Rocket Handbook. (2015). Wallops Flight Facility Wallops Island, Virginia, USA. Sounding Rockets Program Office Suborbital & Special Orbital Projects Directorate. Retrieved from http://sites.wff.nasa.gov/code810/files/SRHB.pdf
 - Chapter 4, `CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers`. (2017). NASA. Retrieved from https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf
 
 
