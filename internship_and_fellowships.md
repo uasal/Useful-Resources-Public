@@ -34,3 +34,12 @@ Grad fellowships-Seniors can often apply for these! they will pay for grad schoo
 * NESSF NASA
 * Ford foundation: http://sites.nationalacademies.org/pga/FordFellowships/index.htm
 * Amelia Earhart Fellowship: https://foundation.zonta.org/Our-Programs/Educational-Programs/Amelia-Earhart-Fellowship
+
+## short school opportunities
+
+Exciting short programs that dive deep into a particular topic
+
+* UCSC Adaptive Optics Summer School: http://cfao.ucolick.org/aosummer.php
+* UC Berkeley AstroTech Summer School: https://isee-telescope-workforce.org/2020-astrotech/
+* Siegman School on Lasers: https://www.osa.org/en-us/meetings/topical_meetings/siegman_international_school_on_lasers/
+
