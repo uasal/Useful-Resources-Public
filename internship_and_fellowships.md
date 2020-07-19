@@ -29,6 +29,7 @@ Space related internships (most will pay a stipend and may provide for your hous
 
 Grad fellowships-Seniors can often apply for these! they will pay for grad school and give you an advantage in admissions:
 
+* UA Space Grant Fellowship: https://spacegrant.arizona.edu/students/fellowships
 * NASA Space Technology Graduate Research Opportunities  https://tinyurl.com/NSTGRO20
 * https://www.nsfgrfp.org/ due late october!
 * NESSF NASA
